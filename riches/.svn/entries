@@ -1,0 +1,215 @@
+8
+
+dir
+1
+svn://lab-01/riches.java/riches
+svn://lab-01/riches.java
+
+
+
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b898f5db-a73f-44b7-b3f5-df6708d90824
+
+README.txt
+file
+
+
+
+
+2019-05-01T15:31:21.839000Z
+9703efd200d274f7f4c722726dc851ca
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+README_WEBLOGIC.txt
+file
+
+
+
+
+2019-05-01T15:31:21.845000Z
+a8736efe9483db379c861e609788fcde
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+WEB-INF
+dir
+
+application.xml
+file
+
+
+
+
+2019-05-01T15:31:21.852000Z
+345396876202d9ad19a9145739c7e0a1
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+build.xml
+file
+
+
+
+
+2019-05-01T15:31:21.858000Z
+33a3023e8f928b7e4476a329bedeadb5
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+config
+dir
+
+context.xml
+file
+
+
+
+
+2019-05-01T15:31:21.872000Z
+3718bf18c86841b794b54acc98bd142a
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+create_db.sql
+file
+
+
+
+
+2019-05-01T15:31:21.878000Z
+27f449a246d1bc8eaab4bc0047c6b005
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+css
+dir
+
+etc
+dir
+
+img
+dir
+
+js
+dir
+
+jsplibs
+dir
+
+lib
+dir
+
+login
+dir
+
+pages
+dir
+
+restrictions.txt
+file
+
+
+
+
+2019-05-01T15:31:21.890000Z
+dad07c8eca7902627cf7e178f6127815
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+rwi-1.swf
+file
+
+
+
+
+2019-05-01T15:31:21.898000Z
+215a74ffbcc907de3bc1596d79ddda9f
+2019-04-21T13:09:02.970976Z
+1
+admin
+has-props
+
+scan.bat
+file
+
+
+
+
+2019-05-01T15:31:21.921000Z
+cb9806abe665f584a1ce6189c32e8583
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+scan.bat.org
+file
+
+
+
+
+2019-05-01T15:31:21.927000Z
+240fc20534df603d9eb3c03cd6a1eb3e
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+scan.sh
+file
+
+
+
+
+2019-05-01T15:31:21.932000Z
+9ff25ae9a697a9403fc8af835d75b339
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+secrets.txt
+file
+
+
+
+
+2019-05-01T15:31:21.938000Z
+67b34b5fc925abd45f48c3b1d3f58a31
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+version.txt
+file
+
+
+
+
+2019-05-01T15:31:21.942000Z
+f1500554fb8a961a1a4031b2e9f87580
+2019-04-21T13:09:02.970976Z
+1
+admin
+

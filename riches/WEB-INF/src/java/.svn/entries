@@ -1,0 +1,58 @@
+8
+
+dir
+1
+svn://lab-01/riches.java/riches/WEB-INF/src/java
+svn://lab-01/riches.java
+
+
+
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b898f5db-a73f-44b7-b3f5-df6708d90824
+
+com
+dir
+
+hibernate.properties
+file
+
+
+
+
+2019-05-01T15:31:05.602000Z
+f603a8ef2075c81fe6d642665f0252b1
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+resources
+dir
+
+struts.xml
+file
+
+
+
+
+2019-05-01T15:31:05.609000Z
+e1e65b0ce466abe2855626288a155bf7
+2019-04-21T13:09:02.970976Z
+1
+admin
+

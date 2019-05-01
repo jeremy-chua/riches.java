@@ -1,0 +1,55 @@
+8
+
+dir
+1
+svn://lab-01/riches.java/riches/etc/jboss4-support
+svn://lab-01/riches.java
+
+
+
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b898f5db-a73f-44b7-b3f5-df6708d90824
+
+login-config-fragment.xml
+file
+
+
+
+
+2019-05-01T15:31:06.739000Z
+c5820c995462446e667f62a2bc74c6db
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+riches-ds.xml
+file
+
+
+
+
+2019-05-01T15:31:06.746000Z
+008a0641e1867701aa40ede0b4930033
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+src
+dir
+

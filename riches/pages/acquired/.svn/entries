@@ -1,0 +1,52 @@
+8
+
+dir
+1
+svn://lab-01/riches.java/riches/pages/acquired
+svn://lab-01/riches.java
+
+
+
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b898f5db-a73f-44b7-b3f5-df6708d90824
+
+default.jsp
+file
+
+
+
+
+2019-05-01T15:31:19.857000Z
+d41d8cd98f00b204e9800998ecf8427e
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+first_riches_invest.jsp
+file
+
+
+
+
+2019-05-01T15:31:19.861000Z
+edf767e6b77ff79f07ec27aaea0ed81d
+2019-04-21T13:09:02.970976Z
+1
+admin
+

@@ -1,0 +1,31 @@
+8
+
+dir
+1
+svn://lab-01/riches.java/riches/etc/tomcat5.5-support/src/com/fortify
+svn://lab-01/riches.java
+
+
+
+2019-04-21T13:09:02.970976Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b898f5db-a73f-44b7-b3f5-df6708d90824
+
+samples
+dir
+
