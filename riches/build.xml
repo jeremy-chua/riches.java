@@ -44,6 +44,14 @@
     <path id="hsql.classpath">
         <pathelement location="../tools/hsqldb-1.8.jar"/>
     </path>
+    
+    
+    <target name="package">
+        <property name="server" value="tomcat5.5"/>
+        <var name="project.dist.name" unset="true"/>
+        <var name="project.dist.name" value="riches"/>
+        <antcall target="all"/>
+    </target>
 
     <target name="tomcat5.5">
         <property name="server" value="tomcat5.5"/>
