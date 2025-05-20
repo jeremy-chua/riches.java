@@ -13,6 +13,11 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0 ## Shallow clones should be disabled for a better relevancy of analysis
+      - uses: actions/setup-java@v4
+        with:
+          java-version: "17"
+      - name: Run the Ant jar target
+        run: ant tomcat5.5
       - name: SonarQube Scan
         uses: SonarSource/sonarqube-scan-action@v5
         env:
