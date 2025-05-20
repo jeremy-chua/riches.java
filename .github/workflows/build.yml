@@ -18,7 +18,7 @@ jobs:
           java-version: "17"
           distribution: "temurin"
       - name: Run the Ant jar target
-        run: ant tomcat5.5
+        run: ant -f riches.java/riches/build.xml tomcat5.5
       - name: SonarQube Scan
         uses: SonarSource/sonarqube-scan-action@v5
         env:
