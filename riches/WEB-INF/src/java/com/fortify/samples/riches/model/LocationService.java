@@ -22,6 +22,14 @@ import java.util.logging.Logger;
 public class LocationService {
     final private static Logger log = Logger.getLogger(ConnectionFactory.class.getName());
 
+    // JC - hardcoded secret and password test
+    private static final String SECRET = "1234567890abcdefg";
+    private static final String KEY = "secret_key";
+    private static final String SECRET_KEY = "secret_key";
+    private static final String PASSWORD = "P@$$w0rd!";
+    private static final String PSWD = "1234";
+    private static final String PWD = "1234";
+
     // Password in comment
     // The database password is 123456
 
