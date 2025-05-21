@@ -3,8 +3,6 @@ package com.fortify.samples.riches.model;
 import com.fortify.samples.riches.database.ConnFactory;
 import com.fortify.samples.riches.database.ConnectionFactory;
 
-import freemarker.core.CommandLine;
-
 import java.util.List;
 import java.util.ArrayList;
 import java.sql.Connection;
@@ -26,14 +24,6 @@ public class LocationService {
 
     // Password in comment
     // The database password is 123456
-
-    // JC - hardcoded secret and password test
-    private static final String SECRET = "1234567890abcdefg";
-    private static final String KEY = "secret_key";
-    private static final String SECRET_KEY = "secret_key";
-    private static final String PASSWORD = "P@$$w0rd!";
-    private static final String PSWD = "1234";
-    private static final String PWD = "1234";
 
     private static void safeClose(Session session) {
         try {
